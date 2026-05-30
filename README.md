@@ -14,4 +14,4 @@ Este proyecto es un ejemplo sencillo para aprender a trabajar con Git y GitHub.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Por fabor abre un issue antes de enviar un PR.
+Las contribuciones son bienvenidas. Por favor abre un issue antes de enviar un PR.
